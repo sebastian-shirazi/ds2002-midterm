@@ -1,6 +1,8 @@
 # ds2002-midterm
 Midterm Project 1: Data Project
 
+You will either clone or download a zip of this repositoy
+
 ## Quickstart
 
 In order to start this project, first run:
