@@ -1,0 +1,17 @@
+[
+  {
+    "ProductID": 709,
+    "num_reviews_sql": 1,
+    "avg_rating_sql": 5.0
+  },
+  {
+    "ProductID": 937,
+    "num_reviews_sql": 2,
+    "avg_rating_sql": 3.0
+  },
+  {
+    "ProductID": 798,
+    "num_reviews_sql": 1,
+    "avg_rating_sql": 5.0
+  }
+]
