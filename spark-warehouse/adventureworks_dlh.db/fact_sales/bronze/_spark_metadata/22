@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/spark-warehouse/adventureworks_dlh.db/fact_sales/bronze/part-00000-8867033f-e42e-4e0f-8488-f9b0aa1be263-c000.snappy.parquet","size":90515,"isDir":false,"modificationTime":1765939787924,"blockReplication":1,"blockSize":33554432,"action":"add"}

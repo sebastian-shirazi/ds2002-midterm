@@ -1,0 +1,11 @@
+v1
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_001.json","timestamp":1765939779052,"batchId":0}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_002.json","timestamp":1765939779060,"batchId":1}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_003.json","timestamp":1765939779067,"batchId":2}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_004.json","timestamp":1765939779074,"batchId":3}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_005.json","timestamp":1765939779082,"batchId":4}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_006.json","timestamp":1765939779089,"batchId":5}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_007.json","timestamp":1765939779097,"batchId":6}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_008.json","timestamp":1765939779105,"batchId":7}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_009.json","timestamp":1765939779113,"batchId":8}
+{"path":"file:///Users/sebastian/ds-systems/ds2002-midterm/data/stream/fact_sales/fact_sales_010.json","timestamp":1765939779120,"batchId":9}
