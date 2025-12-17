@@ -15,7 +15,7 @@ source .venv/bin/activate
 Then, once in your pyenv, run the following command:
 
 ```
-python -m pip install numpy pandas sqlalchemy pymongo certifi pymysql findspark
+python -m pip install numpy pandas sqlalchemy pymongo certifi pymysql findspark pyspark spark
 ```
 
 This will ensure that you have the necessary libraries needed within your pyenv.
